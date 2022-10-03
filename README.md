@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 ![fotis-fotopoulos-6sAl6aQ4OWI-unsplash](https://user-images.githubusercontent.com/89581977/171554048-5f754813-9788-4183-9683-231b6ffd3e03.jpg)
 <!-- ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg)![code](https://user-images.githubusercontent.com/89581977/193558257-6ce2a4ed-907d-4a1a-bfaa-aa3d3de9b806.jpg) -->
 
-<!-- <h3>Ali Hassan</h3> -->![WhatsApp Image 2022-10-03 at 3 53 33 PM](https://user-images.githubusercontent.com/89581977/193561115-9991851b-a024-4826-8590-bc6febc5b768.jpeg)
-![WhatsApp Image 2022-10-03 at 3 53 33 PM (1)](https://user-images.githubusercontent.com/89581977/193561121-ba747361-f024-425b-8863-9584c3f3b7b4.jpeg)
-![WhatsApp Image 2022-10-03 at 3 53 32 PM](https://user-images.githubusercontent.com/89581977/193561123-c4b0051c-2a48-4103-af9d-9d0bed3cd0fa.jpeg)
 
-<!-- Flutter Developer -->
+
 <h3>Contact</h3>
 <h4>Email</h4>
 hasanization@gmail.com
@@ -65,9 +62,11 @@ o https://play.google.com/store/apps/details?id=com.chi.doctorapp.dev&hl=en&gl=U
 App ScreenShots
 <br></br>
 
-![WhatsApp Image 2022-10-03 at 3 53 33 PM](https://user-images.githubusercontent.com/89581977/193561188-55efa3bb-137e-45ab-8d4c-d633bfcd0803.jpeg)
-![WhatsApp Image 2022-10-03 at 3 53 33 PM (1)](https://user-images.githubusercontent.com/89581977/193561193-ebf4e84f-3b0c-4764-ad31-4e983cf811a7.jpeg)
-![WhatsApp Image 2022-10-03 at 3 53 32 PM](https://user-images.githubusercontent.com/89581977/193561195-b9dd3902-83e3-42c6-b8e7-400df68392c5.jpeg)
+![WhatsApp Image 2022-10-03 at 3 53 33 PM](https://user-images.githubusercontent.com/89581977/193565953-8cc10a22-ae6c-4c87-aba9-e15e97c581b0.jpeg)
+![WhatsApp Image 2022-10-03 at 3 53 34 PM](https://user-images.githubusercontent.com/89581977/193565956-a283f5e1-6801-4763-9cd7-2c0ccf8fd269.jpeg)
+![WhatsApp Image 2022-10-03 at 3 53 32 PM](https://user-images.githubusercontent.com/89581977/193565959-466c62b2-6321-4903-93e3-8bb3f90227e0.jpeg)
+![WhatsApp Image 2022-10-03 at 3 53 33 PM (1)](https://user-images.githubusercontent.com/89581977/193565965-643680d6-c9b3-404c-9230-0942a93a2256.jpeg)
+
 
 
 <h5>o CHI Health Buddy</h5>
@@ -98,9 +97,9 @@ Invoice labs is an android application to generate an invoice after collecting d
 App ScreenShots
 <br></br>
 
-![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 07 36](https://user-images.githubusercontent.com/54985306/133070268-e2bf07a0-c374-4258-8761-7bf3f7b17ed0.png)
+<!-- ![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 07 36](https://user-images.githubusercontent.com/54985306/133070268-e2bf07a0-c374-4258-8761-7bf3f7b17ed0.png)
 ![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 07 44](https://user-images.githubusercontent.com/54985306/133070283-d76e28bf-98c1-41e9-a3d9-2f2d69382f5c.png)
-![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 09 26](https://user-images.githubusercontent.com/54985306/133070286-c86bcb7c-73ee-4d3c-afd3-014904c1af4e.png)
+![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 09 26](https://user-images.githubusercontent.com/54985306/133070286-c86bcb7c-73ee-4d3c-afd3-014904c1af4e.png) -->
 
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.invoiceslab.invoice&hl=en&gl=US<br></br>
@@ -121,23 +120,6 @@ App ScreenShots
 ![Screenshot_20221003-161315](https://user-images.githubusercontent.com/89581977/193564567-73bf53ae-e3e0-490c-832a-b5dde1815455.jpg)
 ![Screenshot_20221003-161322](https://user-images.githubusercontent.com/89581977/193564570-f5acffdf-9475-4d98-8f7a-85e95a57445e.jpg)
 
-
-<h5>o Whatsinit</h5>
-
-![80](https://user-images.githubusercontent.com/54985306/133070818-3ecec206-6820-4fc3-be71-51717ccd0e3c.png)
-
-
-Monthly subscription based App in which you can search for any food item to see what incredients it has.
-(Still in beta testing)
-<br></br>
-App ScreenShots
-<br></br>
-
-![Screenshot_1629725116](https://user-images.githubusercontent.com/54985306/133031674-c9ff010c-b522-4666-bbcd-a2ca82ea0a03.png)
-![Screenshot_1629724981](https://user-images.githubusercontent.com/54985306/133031675-e5d15961-4c87-43fc-b190-fdbdd4c100fd.png)
-![Screenshot_1629724992](https://user-images.githubusercontent.com/54985306/133031678-f24393f0-fb65-49ee-923e-6053854cbed8.png)
-![Screenshot_1629725024](https://user-images.githubusercontent.com/54985306/133031681-a7630a3b-66e6-4f44-bbb7-d338f186611c.png)
-![Screenshot_1629725097](https://user-images.githubusercontent.com/54985306/133031685-f2999661-74a1-49a9-9e0b-bbc5412d8592.png)
 
 
 
