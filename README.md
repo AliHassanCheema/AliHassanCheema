@@ -97,11 +97,18 @@ Invoice labs is an android application to generate an invoice after collecting d
 App ScreenShots
 <br></br>
 
-<!-- ![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 07 36](https://user-images.githubusercontent.com/54985306/133070268-e2bf07a0-c374-4258-8761-7bf3f7b17ed0.png)
-![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 07 44](https://user-images.githubusercontent.com/54985306/133070283-d76e28bf-98c1-41e9-a3d9-2f2d69382f5c.png)
-![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-03-15 at 11 09 26](https://user-images.githubusercontent.com/54985306/133070286-c86bcb7c-73ee-4d3c-afd3-014904c1af4e.png) -->
+![Screenshot_20221004-151213](https://user-images.githubusercontent.com/89581977/193795041-092d7dc4-6e76-4eca-9a40-25c9458e74e1.jpg)
+![Screenshot_20221004-151249](https://user-images.githubusercontent.com/89581977/193795050-ac107d73-58be-47a6-b7ad-7153b31d20db.jpg)
+![Screenshot_20221004-151258](https://user-images.githubusercontent.com/89581977/193795053-3a2402e7-a7f2-4c0d-861f-1c98fe936b8a.jpg)
+![Screenshot_20221004-151306](https://user-images.githubusercontent.com/89581977/193795055-e0970e35-845c-4366-8ae1-2b022671f677.jpg)
+![Screenshot_20221004-151433](https://user-images.githubusercontent.com/89581977/193795056-2c143ffe-ab51-435f-970b-1f02d28f2347.jpg)
+![Screenshot_20221004-151444](https://user-images.githubusercontent.com/89581977/193795058-f220a079-b685-457c-8b6f-2387fb06b84a.jpg)
+![Screenshot_20221004-151456](https://user-images.githubusercontent.com/89581977/193795061-bb320b64-d798-4b2d-8e4d-ce907350966b.jpg)
+
 
 <h6>Links</h6>
+
+But the updated version is not published on playstore yet.<br></br>
 o https://play.google.com/store/apps/details?id=com.invoiceslab.invoice&hl=en&gl=US<br></br>
 
 
