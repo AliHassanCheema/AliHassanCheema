@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 
 <!-- ![fotis-fotopoulos-6sAl6aQ4OWI-unsplash](https://user-images.githubusercontent.com/89581977/171554048-5f754813-9788-4183-9683-231b6ffd3e03.jpg) -->
-![fotis-fotopoulos-6sAl6aQ4OWI-unsplash](https://user-images.githubusercontent.com/89581977/171554048-5f754813-9788-4183-9683-231b6ffd3e03.jpg)
-<!-- ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg)![code](https://user-images.githubusercontent.com/89581977/193558257-6ce2a4ed-907d-4a1a-bfaa-aa3d3de9b806.jpg) -->
+<!-- ![fotis-fotopoulos-6sAl6aQ4OWI-unsplash](https://user-images.githubusercontent.com/89581977/171554048-5f754813-9788-4183-9683-231b6ffd3e03.jpg)
+ ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg)![code](https://user-images.githubusercontent.com/89581977/193558257-6ce2a4ed-907d-4a1a-bfaa-aa3d3de9b806.jpg) -->
 
 
+![Ali Hassan](https://user-images.githubusercontent.com/89581977/193996299-20545c07-99ce-4932-8b0a-c9e15d91de9a.png)
 
 <h3>Contact</h3>
 <h4>Email</h4>
