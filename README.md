@@ -42,7 +42,7 @@ Sep(2017) - Aug(2021)
 
 <h3>WORK EXPERIENCE</h3>
 <h5> Flutter Developer/Mobile Application Developer </h5>
-Cognitive Healthcare International, Islamabad
+Cognitive Healthcare International, Islamabad <br>
 August(2021)–Present</br>
 Responsibilities:<br></br>
 - Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
