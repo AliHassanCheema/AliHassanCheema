@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 hasanization@gmail.com
 <h4>Linked In</h4>
 https://www.linkedin.com/in/ali-hassan-106776214/
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hasanization" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/hasanization?trk=profile-badge">Ali Hassan</a></div>
+              
 <h4>Whatsapp</h4>
 Scan the code 
 
