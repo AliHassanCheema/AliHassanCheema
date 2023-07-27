@@ -29,13 +29,6 @@ hasanization@gmail.com
 <h4>Linked In</h4>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hasanization" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/hasanization?trk=profile-badge">Ali Hassan</a></div>
               
-<h4>Whatsapp</h4>
-Scan the code 
-
-![whatsapp QR](https://user-images.githubusercontent.com/89581977/193558312-f84ad556-cdcb-4684-8c2e-79683df839d2.jpg)
-
-Or open this link from your smartphone
-https://wa.me/qr/X7XHDIOLP4SWE1
 
 <h3>EDUCATION</h3>
 <h5>BSSE from University of Gujrat, main campus, Gujrat</h5>
