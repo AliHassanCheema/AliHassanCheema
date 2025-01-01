@@ -21,8 +21,6 @@ Flutter developer since November 2021.<br>Makes mobile apps with Flutter.<br>Wor
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AliHassanCheema&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AliHassanCheema&icon=0&color=1)](https://visitcount.itsvg.in)
